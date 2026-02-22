@@ -31,10 +31,13 @@ I am currently working on an llm video generation model and researching differen
 ---
 [![](https://visitcount.itsvg.in/api?id=Vaishnavishrivastav&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
+
 
 ## 📬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-srivastava-7b005b250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavi.srivastava.tech@gmail.com) 
+
+---
+
  ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vaishnavisrivastava) 
 
