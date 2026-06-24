@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Vaishnavishrivastav&icon=0&color=0" alt="Visitor Count"></a>
+  <img src="https://gierachy.vercel.app/api/v1/badge?id=Vaishnavishrivastav&color=dark&style=flat" alt="Visitor Count" />
 </p>
