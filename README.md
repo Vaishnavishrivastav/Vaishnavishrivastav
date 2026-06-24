@@ -1,47 +1,64 @@
-# 🪻Vaishnavi Srivastava | CyberSecurity Analyst, ML Engineer & Full Stack Developer 
+# 🪻 Vaishnavi Srivastava 
+### CyberSecurity Analyst | Machine Learning Engineer | Full Stack Developer  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-srivastava-7b005b250/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavishrivastav)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavi.srivastava.tech@gmail.com)
-
----
-
-### 💫 About Me:
-I am currently working on an llm video generation model and researching different llm models that already exists,<br>I have completed an internship as cybersecurity intern from nielit gorakhpur as work based intern,<br>I have completed my graduation from deen dayal upadhyay gorakhpur university with an avg of 8.41 cgpa
+<p align="left">
+<a href="https://www.linkedin.com/in/vaishnavi-srivastava-7b005b250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Vaishnavishrivastav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:vaishnavi.srivastava.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-### 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vaishnavishrivastav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vaishnavishrivastav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavishrivastav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 💫 About Me
+- 🎓 **Education:** Graduated from Deen Dayal Upadhyay Gorakhpur University with an **8.41 CGPA**.
+- 🔬 **Research & Projects:** Currently developing a Latent Video Generation Model and exploring advanced Large Language Model (LLM) architectures.
+- 💼 **Experience:** Completed a comprehensive Work-Based Cybersecurity Internship at **NIELIT Gorakhpur**.
+- 🛡️ **Passions:** Bridging the gap between secure infrastructure and intelligent, data-driven systems.
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vaishnavishrivastav&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 💻 Tech Stack
 
----
-[![](https://visitcount.itsvg.in/api?id=Vaishnavishrivastav&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### 🏆 Achievements
-
-- NPTEL Top 5% in Introduction to Iot (IIT Kharagpur)
-- NPTEL Silver batch in Cloud Computing (IIT Kharagpur)
-- NPTEL 82% score in Data Analytics with Pyhton (IIT Rorkee)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
+| **Data Science & ML** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) |
 
 ---
 
-### 📬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-srivastava-7b005b250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavi.srivastava.tech@gmail.com) 
+### 🏆 Certifications & Achievements
+
+- 🥇 **NPTEL Top 5%** – Introduction to IoT (*IIT Kharagpur*)
+- 🥈 **NPTEL Silver Medalist** – Cloud Computing (*IIT Kharagpur*)
+- 📊 **NPTEL 82% Elite** – Data Analytics with Python (*IIT Roorkee*)
 
 ---
 
+### 📊 GitHub Activity & Stats
 
+<table border="0">
+ <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Vaishnavishrivastav&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="450px" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavishrivastav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350px" /></td>
+ </tr>
+ <tr>
+    <td colspan="2" align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=Vaishnavishrivastav&theme=dark&hide_border=false" width="100%" /></td>
+ </tr>
+</table>
+
+### 🔝 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Vaishnavishrivastav&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" />
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Vaishnavishrivastav&icon=0&color=0" alt="Visitor Count"></a>
+</p>
