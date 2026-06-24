@@ -1,4 +1,4 @@
-# 🪻 Vaishnavi Srivastava | Pre-Doctoral Research Fellow @ IIT Roorkee | AI/ML Engineer | Cybersecurity Researcher
+# 🌸 Vaishnavi Srivastava
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-srivastava-7b005b250/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavishrivastav)
@@ -6,127 +6,73 @@
 
 ---
 
-### 💫 About Me
+## 👩‍🔬 About Me
 
-I am a **Computer Science & Engineering graduate** from **Deen Dayal Upadhyay Gorakhpur University** with a CGPA of **8.41/10**.
+Pre-Doctoral Research Fellow at **IIT Roorkee**, working on **Equivariance-Aware Deep Learning for Robust Computer Vision** under Prof. Balasubramanian Raman.
 
-🔬 Currently working as a **Pre-Doctoral Research Fellow at IIT Roorkee**, conducting research in **Equivariance-Aware Deep Learning and Robust Computer Vision**.
+B.Tech CS graduate (CGPA 8.41) from DDU Gorakhpur University. GATE qualified in both **CS** and **DA/AI**. Selected as Associate System Engineer at **TCS (2026)**.
 
-🛡️ Completed a **Cyber Security Internship at NIELIT Gorakhpur**, gaining practical experience in cybersecurity technologies and security-focused projects.
-
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, Cybersecurity, and Full Stack Development**.
-
-🚀 Currently exploring **Large Language Models (LLMs), Generative AI, and AI-powered Video Generation Systems**.
+Currently exploring LLM architectures and contributing to an LLM-based video generation pipeline at Moleculyst.
 
 ---
 
-### 🎓 Education
+## 🔬 Research
 
-**Bachelor of Technology (B.Tech) – Computer Science & Engineering**  
-Deen Dayal Upadhyay Gorakhpur University  
-CGPA: **8.41/10** | Graduated: **2025**
-
----
-
-### 💼 Experience
-
-#### 🔬 Pre-Doctoral Research Fellow | IIT Roorkee
-- Researching Equivariance-Aware Deep Learning.
-- Working on Robust Computer Vision systems.
-- Exploring advanced AI and machine learning architectures.
-
-#### 🛡️ Cyber Security Intern | NIELIT Gorakhpur
-- Worked on cybersecurity technologies and security analysis.
-- Gained practical exposure to cyber defense and security auditing concepts.
+**IIT Roorkee — Pre-Doctoral Research Fellow**  
+Equivariance-Aware Deep Learning · Robust Computer Vision · AI/ML Research  
+*(Selected via the NPTEL Pre-Doctoral Fellowship Program)*
 
 ---
 
-### 🚀 Featured Projects
+## 💼 Experience
 
-#### 👁️ Diabetic Retinopathy Detection
-Deep learning-based system for automated diabetic retinopathy detection from retinal images.
+**Machine Learning Engineer** — Moleculyst *(Feb 2026 – Present)*  
+Reproducing research papers, fine-tuning models, and contributing to an LLM-based video generation pipeline.
 
-#### 📊 Twitter Sentiment Analysis
-Machine learning project for analyzing sentiments from Twitter data using NLP techniques.
+**Cybersecurity Intern** — NIELIT Gorakhpur *(Aug 2025 – Feb 2026)*  
+Compliance auditing with OpenSCAP on RHEL; cybercrime awareness and ethical hacking training.
 
-#### 📈 HABST – Habit Tracking Web App
-A productivity-focused web application developed using HTML, CSS, and JavaScript.
-
-#### 🔒 Custom Compliance Auditing System Using OpenSCAP
-Security compliance auditing framework developed on Red Hat Enterprise Linux.
-
-#### 🎥 LLM-Based Video Generation Research
-Research and experimentation with next-generation AI-driven video generation systems.
+**AI Intern** — Feynn Labs *(Feb 2025 – Apr 2025)*  
+Built predictive ML pipelines and AI-driven automation prototypes for small enterprises.
 
 ---
 
-### 💻 Tech Stack
+## 🛠️ Tech Stack
 
-#### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### AI / ML & Data Science
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-#### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Languages:** Python · C · C++ · SQL · Java  
+**ML/AI:** Scikit-learn · NumPy · Pandas · Deep Learning · NLP · Computer Vision  
+**Web/API:** Flask · REST APIs · HTML · CSS · JavaScript  
+**Tools:** Git · Linux · Jupyter · Google Colab · OpenSCAP  
+**Databases:** MySQL · JDBC
 
 ---
 
-### 🏆 Achievements
+## 🚀 Projects
 
-- 🥇 Selected as **Pre-Doctoral Research Fellow at IIT Roorkee**
-- 🎯 Qualified **GATE – Computer Science & Engineering**
-- 🎯 Qualified **GATE – Data Science & Artificial Intelligence**
-- 💼 Selected as **Associate System Engineer at TCS**
-- 🏅 NPTEL Top 5% – Introduction to IoT (IIT Kharagpur)
-- 🥈 NPTEL Silver – Cloud Computing (IIT Kharagpur)
-- 📊 NPTEL – Data Analytics with Python (IIT Roorkee)
+**[Twisight — Twitter Sentiment Analyzer](https://github.com/Vaishnavishrivastav)**  
+End-to-end NLP pipeline with REST API interface · 95% accuracy · GUI frontend
+
+**[Student Result Batch Processing System](https://github.com/Vaishnavishrivastav)**  
+Java batch system for bulk exam record processing, grade computation, and report generation
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Achievements
 
-![](https://github-readme-stats.vercel.app/api?username=Vaishnavishrivastav&theme=tokyonight&show_icons=true&hide_border=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Vaishnavishrivastav&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavishrivastav&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-### 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Vaishnavishrivastav&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+- 🥇 **NPTEL Gold Certificate Holder**
+- 🥈 **NPTEL Silver Certificate** — Cloud Computing (IIT Kharagpur)
+- ⭐ **NPTEL Top 5%** — Introduction to IoT (IIT Kharagpur)
+- 📊 **82% score** — Data Analytics with Python (IIT Roorkee)
+- 🎓 **GATE qualified** — CS Engineering & DA/AI (2025)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Vaishnavishrivastav&icon=5&color=6)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavishrivastav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavishrivastav&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-### 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-srivastava-7b005b250)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavi.srivastava.tech@gmail.com)
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with ❤️ by Vaishnavi Srivastava -->
+[![](https://visitcount.itsvg.in/api?id=Vaishnavishrivastav&icon=0&color=0)](https://visitcount.itsvg.in)
